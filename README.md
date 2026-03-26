@@ -23,7 +23,7 @@ which can be costly and time consuming and we will make use of [Weights & Biases
 **Objective of the project** - the deliverable must demonstrate that you are able to:
 
 1. Select an appropriate pre-trained neural network and apply transfer learning to the real-estate image classification use case.
-2. Run professional-grade experimentation and hyperparameter tuning with [Weights & Biases](https://wandb.ai/) in a team workflow (not only local classroom trials).
+2. Run professional-grade experimentation and hyperparameter tuning with [Weights & Biases](https://wandb.ai/) in a team workflow.
 3. Deploy a production-ready inference service using [Streamlit](https://streamlit.io/) (front-end) and [FastAPI](https://fastapi.tiangolo.com/) (back-end API).
 
 ### Required final deliverable
